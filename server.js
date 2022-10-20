@@ -45,3 +45,7 @@ sequelize.sync({force: false}).then(() => {
         console.log("Now listening")
     );
 });
+
+process.on('uncaughtException', function (err) {
+    console.log(err);
+}); 
