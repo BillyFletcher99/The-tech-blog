@@ -22,10 +22,7 @@
 <!-- Issues -->
 ## issues
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [ ] Add handlebar section past main
+- [ ] Figure out why port is not correctly working
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+
